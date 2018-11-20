@@ -1,0 +1,15 @@
+{
+  "name": "frat_name_generator",
+  "version": "1.0.0",
+  "description": "A frat name generator",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d Frat name generator es6"
+  },
+  "author": "Nick Z",
+  "license": "MIT",
+  "homepage": "https://Ballers-of-the-Lost-Ark.github.io/Frat-Name-Generator",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
