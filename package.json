@@ -4,12 +4,12 @@
   "description": "A frat name generator",
   "main": "main.js",
   "scripts": {
-    "deploy": "gh-pages -d Frat name generator es6"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Nick Z",
   "license": "MIT",
   "homepage": "https://Ballers-of-the-Lost-Ark.github.io/Frat-Name-Generator",
   "dependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.1.1"
   }
 }
